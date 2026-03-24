@@ -62,10 +62,9 @@ I'm currently pursuing B.E. in AI & Machine Learning (6th Semester) at RVCE, Ban
 
 <div align="center">
 
-<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Garv98&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=a855f7&text_color=FFFFFF" /> -->
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Garv98&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=a855f7&fire=22d3ee&currStreakLabel=FFFFFF" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Garv98&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=a855f7&fire=22d3ee&currStreakLabel=FFFFFF" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garv98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=FFFFFF&langs_count=8" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garv98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=FFFFFF&langs_count=6" />
 
 </div>
 
