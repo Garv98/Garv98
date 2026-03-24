@@ -1,54 +1,30 @@
 <div align="center">
 
-# ⚡ GARV AGARWALLA ⚡
+# Garv Agarwalla
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=AI%2FML+Engineer+%F0%9F%A4%96;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+**AI/ML Engineering Student | RV College of Engineering, Bangalore**
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-6366f1?style=for-the-badge&logoColor=white)](https://portfolio-website-three-xi-83.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garv-agarwalla-0a9aaa28b)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garvagarwalla@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=Garv98&style=for-the-badge&color=6366f1" alt="Profile Views"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-website-three-xi-83.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garv-agarwalla-0a9aaa28b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:garvagarwalla@gmail.com)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+### About
 
-### 🎓 About Me
+I'm currently pursuing B.E. in AI & Machine Learning (6th Semester) at RVCE, Bangalore. I specialize in building intelligent systems using Machine Learning, Computer Vision, and Deep Learning. My work focuses on creating practical AI solutions - from security analysis tools to automated dataset generation frameworks.
 
-```python
-class GarvAgarwalla:
-    def __init__(self):
-        self.role = "AI/ML Engineering Student"
-        self.university = "RV College of Engineering"
-        self.location = "Bangalore, India 🇮🇳"
-        self.semester = 6
-
-    def currently_working_on(self):
-        return [
-            "🔬 Multimodal AI Systems",
-            "👁️ Computer Vision Projects",
-            "🧠 Deep Learning Research",
-            "🛡️ AI-driven Security Tools"
-        ]
-
-    def fun_fact(self):
-        return "I turn coffee ☕ into AI models 🤖"
-```
-
-<br clear="both"/>
+**Currently working on:** Multimodal AI systems, Computer Vision applications, and AI-driven security tools.
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Stack
 
 <div align="center">
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -56,13 +32,13 @@ class GarvAgarwalla:
 ![scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
 
-### 📊 Data Science
+### Data Science
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🌐 Web Development
+### Web Development
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -70,7 +46,7 @@ class GarvAgarwalla:
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -80,7 +56,7 @@ class GarvAgarwalla:
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -93,24 +69,20 @@ class GarvAgarwalla:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
+## Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🔀 **Universal Content Converter** | Multimodal AI content transformation | `LLM` `Vision` `TypeScript` |
-| 🛡️ **AI-driven ZTNA Test** | ML-powered Zero Trust security testing | `Python` `ML` `Security` |
-| 📸 **Dataset Generation Framework** | Automated dataset generation with CLIP/BLIP | `CLIP` `VLM` `Python` |
-| 😴 **Drowsiness Detection** | Real-time facial landmark analysis | `OpenCV` `dlib` `Python` |
-| 🛒 **Sales Loss Prevention** | Computer vision retail system | `YOLO` `OpenCV` `Python` |
-| 🏥 **Diabetic Retinopathy Detection** | Deep learning medical imaging | `CNN` `Medical AI` |
-
-</div>
+| **Universal Content Converter** | Multimodal AI content transformation | `LLM` `Vision` `TypeScript` |
+| **AI-driven ZTNA Test** | ML-powered Zero Trust security testing | `Python` `ML` `Security` |
+| **Dataset Generation Framework** | Automated dataset generation with CLIP/BLIP | `CLIP` `VLM` `Python` |
+| **Drowsiness Detection** | Real-time facial landmark analysis | `OpenCV` `dlib` `Python` |
+| **Sales Loss Prevention** | Computer vision retail system | `YOLO` `OpenCV` `Python` |
+| **Diabetic Retinopathy Detection** | Deep learning medical imaging | `CNN` `Medical AI` |
 
 ---
 
-## 🌟 Activity Graph
+## Activity
 
 <div align="center">
 
@@ -122,22 +94,8 @@ class GarvAgarwalla:
 
 <div align="center">
 
-### 💬 Let's Connect!
+**Open to internship opportunities and collaborations**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Open+to+Internship+Opportunities+%F0%9F%92%BC;Let's+build+something+amazing+together!+%E2%9C%A8" alt="Typing SVG" />
-
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-three-xi-83.vercel.app)
-
-</div>
-
----
-
-<div align="center">
-
-⭐ **Star my repos if you find them useful!** ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-three-xi-83.vercel.app)
 
 </div>
