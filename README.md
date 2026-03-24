@@ -94,8 +94,6 @@ I'm currently pursuing B.E. in AI & Machine Learning (6th Semester) at RVCE, Ban
 
 <div align="center">
 
-**Open to internship opportunities and collaborations**
-
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-three-xi-83.vercel.app)
 
 </div>
