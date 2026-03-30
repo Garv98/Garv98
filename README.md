@@ -4,7 +4,7 @@
 
 **AI/ML Engineering Student | RV College of Engineering, Bangalore**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-website-three-xi-83.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://garvagarwalla.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garv-agarwalla-0a9aaa28b)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:garvagarwalla@gmail.com)
 
@@ -94,6 +94,6 @@ I'm currently pursuing B.E. in AI & Machine Learning (6th Semester) at RVCE, Ban
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-three-xi-83.vercel.app)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://garvagarwalla.vercel.app)
 
 </div>
